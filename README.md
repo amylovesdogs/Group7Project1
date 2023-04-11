@@ -20,7 +20,7 @@ The Final Analysis:
 Pearson Correlation Coefficient is .58: a strong positive correlation
 With a p-value of 0.00, it appears that Happiness Score and Affect Difference are related.
 
-2. Life Ladder and Life Expectancy are stronly correlated.
+2. Life Ladder and Life Expectancy are strongly correlated. There is a postiive 0.72 Pearson Correlation Coeffcient, showing a strong positive correlation. There is a p-value of 0.00, showing that these two variables are directly related. 
  
 3. There is a weak and negative correlation between GDP and Confidence in Gov
 In 2011: Pearson Correlation Coefficient is -0.25 : a very weak, negative correlation
